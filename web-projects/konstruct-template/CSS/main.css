@@ -1,0 +1,82 @@
+.background {
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    top: 41px;
+    left: 668px;
+    bottom: 705px;
+    z-index: 1;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.headline {
+    position: absolute;
+    top: 381px;
+    right: 428px;
+    left: 434px;
+    bottom: 328px;
+    color: #FFFFFF;
+    font-size: 50px;
+    line-height: 70px;
+    letter-spacing: 9px;
+    font-family: "Bebas Neue";
+}
+
+.subtitle {
+    position: absolute;
+    top: 440px;
+    right: 525px;
+    left: 526px;
+    bottom: 307px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: "Open Sans";
+}
+
+.scroll-text {
+    color: #FFFFFF;
+    position: absolute;
+    top: 683px;
+    right: 660px;
+    left: 660px;
+    bottom: 71px;
+    font-family: "Open Sans";
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 3px;
+}
+
+.nav {
+    flex-grow: 1;
+}
+
+.menu {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.logo-two {
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.menu li {
+    margin-left: 200px;
+
+  }
+
+
+
+
+
